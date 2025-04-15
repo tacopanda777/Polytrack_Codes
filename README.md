@@ -2,8 +2,8 @@
 
 This repository contains codes for my Polytrack maps
 
-I strive to create Polytrack maps that demonstrate and convey specific themes, placing the player within a story rather than just a track.
-Whether through decoration or routing, I always strive to maximize the quality of my work.
-For the most part, my favorite styles to build are transitional fullspeed and trial.
+I aim to create Polytrack maps that guide the player through a story, rather than just another route.
+Whether through decoration or routing, I strive to maximize the quality of my work.
+My favorite styles to build are transitional fullspeed and speedtech, but trial can be fun too.
 
 Have fun playing, and I hope you enjoy my work
